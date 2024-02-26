@@ -106,7 +106,7 @@ nav a:hover {
   text-decoration: none;
   border: 1px solid;
   color: black;
-  text-decoration:none
+  text-decoration:none;
 }
 
 .download-cv:hover {
@@ -122,6 +122,7 @@ nav a:hover {
   color: white;
   border: none; 
   cursor: pointer;
+  text-decoration:none;
 }
 
 .contact-info:hover {
