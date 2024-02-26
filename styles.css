@@ -100,7 +100,7 @@ nav a:hover {
 .download-cv {
   background-color: white;
   border-radius: 30px;
-  padding: 16px 24px;
+  padding: 12px 20px;
   font-weight: bold;
   cursor: pointer;
   text-decoration: none;
@@ -111,8 +111,6 @@ nav a:hover {
 .download-cv:hover {
   background-color: gray;
   color: white;
-  border: none;
-  padding: 17px 26px 18px 26px;
 }
 
 .contact-info {
